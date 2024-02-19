@@ -32,3 +32,6 @@
 
 ### SSL Certificates
 - [cert-manager](https://github.com/cert-manager/cert-manager)
+
+### Scaling
+- [keda](https://keda.sh/)
