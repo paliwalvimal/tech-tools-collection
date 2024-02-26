@@ -20,6 +20,10 @@
 ## OCI Container Registry
 - [zot](https://github.com/project-zot/zot)
 
+## Code/Container Signing
+- [sigstore](https://www.sigstore.dev/)
+
+
 ## K8s
 ### Node Management
 - [karpenter](https://karpenter.sh/)
@@ -35,3 +39,8 @@
 
 ### Scaling
 - [keda](https://keda.sh/)
+
+
+## Python
+- [ruff](https://astral.sh/ruff) - Linter
+- [uv](https://github.com/astral-sh/uv) - Package installer
