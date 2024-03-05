@@ -40,7 +40,14 @@
 ### Scaling
 - [keda](https://keda.sh/)
 
+### Security
+- [kubescape](https://github.com/kubescape/kubescape)
+
 
 ## Python
 - [ruff](https://astral.sh/ruff) - Linter
 - [uv](https://github.com/astral-sh/uv) - Package installer
+
+
+## IAM
+- [keycloak](https://www.keycloak.org/)
