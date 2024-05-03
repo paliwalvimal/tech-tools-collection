@@ -12,6 +12,7 @@
 
 ## Observability
 - [opentelemetry](https://opentelemetry.io/)
+- [openobserve](https://github.com/openobserve/openobserve)
 
 ## Dependency Management
 - [renovate](https://docs.renovatebot.com/)
