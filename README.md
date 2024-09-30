@@ -1,25 +1,31 @@
-# Useful tools for for tech engineers
+# Useful tools for techies
 
 ## Project Management
 - [linear](https://linear.app/)
 - [asana](https://asana.com/)
 
-## Terraform
+
+## IaC Automation
 - [atlantis](https://www.runatlantis.io/)
+
 
 ## Low Code
 - [appsmith](https://www.appsmith.com/)
+
 
 ## Observability
 - [opentelemetry](https://opentelemetry.io/)
 - [openobserve](https://github.com/openobserve/openobserve)
 
+
 ## Dependency Management
 - [renovate](https://docs.renovatebot.com/)
 - [dependabot](https://github.com/dependabot)
 
+
 ## OCI Container Registry
 - [zot](https://github.com/project-zot/zot)
+
 
 ## Code/Container Signing
 - [sigstore](https://www.sigstore.dev/)
@@ -44,6 +50,9 @@
 ### Security
 - [kubescape](https://github.com/kubescape/kubescape)
 
+### Extensive List of Tools
+- [kubetools](https://github.com/collabnix/kubetools)
+
 
 ## Python
 - [ruff](https://astral.sh/ruff) - Linter
@@ -53,3 +62,9 @@
 ## IAM
 - [keycloak](https://www.keycloak.org/)
 - [dex](https://github.com/dexidp/dex)
+
+
+## SSL Cert Management
+- [caddy](https://caddyserver.com/)
+- [let's encrypt](https://letsencrypt.org/)
+- [serverless-ca](https://serverlessca.com/)
