@@ -50,8 +50,9 @@
 ### Security
 - [kubescape](https://github.com/kubescape/kubescape)
 
-### Extensive List of Tools
+### Misc
 - [kubetools](https://github.com/collabnix/kubetools)
+- [awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools)
 
 
 ## Python
