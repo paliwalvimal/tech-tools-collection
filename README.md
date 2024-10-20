@@ -50,6 +50,9 @@
 ### Security
 - [kubescape](https://github.com/kubescape/kubescape)
 
+### IDE
+- [headlamp](https://github.com/headlamp-k8s/headlamp)
+
 ### Misc
 - [kubetools](https://github.com/collabnix/kubetools)
 - [awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools)
