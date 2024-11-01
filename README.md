@@ -56,6 +56,7 @@
 ### Misc
 - [kubetools](https://github.com/collabnix/kubetools)
 - [awesome-k8s-tools](https://github.com/vilaca/awesome-k8s-tools)
+- [grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes)
 
 
 ## Python
