@@ -7,6 +7,7 @@
 
 ## IaC Automation
 - [atlantis](https://www.runatlantis.io/)
+- [digger](https://github.com/diggerhq/digger)
 
 
 ## Low Code
