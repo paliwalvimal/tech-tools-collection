@@ -74,3 +74,11 @@
 - [caddy](https://caddyserver.com/)
 - [let's encrypt](https://letsencrypt.org/)
 - [serverless-ca](https://serverlessca.com/)
+
+
+## Public APIs
+- [Free Public APIs](https://github.com/public-apis/public-apis)
+
+
+## Learning Resources
+- [Project based Learning](https://github.com/practical-tutorials/project-based-learning)
