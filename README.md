@@ -32,6 +32,10 @@
 - [sigstore](https://www.sigstore.dev/)
 
 
+## Cloud Security Tool
+- [prowler](https://github.com/prowler-cloud/prowler)
+
+
 ## K8s
 ### Node Management
 - [karpenter](https://karpenter.sh/)
