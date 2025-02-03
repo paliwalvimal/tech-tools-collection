@@ -5,9 +5,9 @@
 - [asana](https://asana.com/)
 
 
-## IaC Automation
-- [atlantis](https://www.runatlantis.io/)
-- [digger](https://github.com/diggerhq/digger)
+## IaC Security
+- [kics](https://github.com/Checkmarx/kics)
+- [checkov](https://github.com/bridgecrewio/checkov)
 
 
 ## Low Code
@@ -28,12 +28,23 @@
 - [zot](https://github.com/project-zot/zot)
 
 
+## Container Security
+- [trivy](https://github.com/aquasecurity/trivy)
+
+
 ## Code/Container Signing
 - [sigstore](https://www.sigstore.dev/)
 
 
 ## Cloud Security Tool
 - [prowler](https://github.com/prowler-cloud/prowler)
+- [cloudsploit](https://github.com/aquasecurity/cloudsploit)
+
+
+## Terraform
+- [atlantis](https://www.runatlantis.io/)
+- [digger](https://github.com/diggerhq/digger)
+- [tflint](https://github.com/terraform-linters/tflint)
 
 
 ## K8s
