@@ -47,6 +47,10 @@
 - [tflint](https://github.com/terraform-linters/tflint)
 
 
+## WAF
+- [open-appsec](https://github.com/openappsec/openappsec)
+
+
 ## K8s
 ### Node Management
 - [karpenter](https://karpenter.sh/)
