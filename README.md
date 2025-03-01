@@ -1,5 +1,8 @@
 # Useful tools for techies
 
+## CI/CD
+- [runs-on](https://github.com/runs-on/runs-on)
+
 ## Project Management
 - [linear](https://linear.app/)
 - [asana](https://asana.com/)
