@@ -1,7 +1,12 @@
 # Useful tools for techies
 
+## Documentation
+- [Gitbook](https://www.gitbook.com/)
+
+
 ## CI/CD
 - [runs-on](https://github.com/runs-on/runs-on)
+
 
 ## Project Management
 - [linear](https://linear.app/)
@@ -13,8 +18,9 @@
 - [checkov](https://github.com/bridgecrewio/checkov)
 
 
-## Low Code
+## Low/No Code
 - [appsmith](https://www.appsmith.com/)
+- [bolt](https://bolt.new/)
 
 
 ## Observability
@@ -102,5 +108,11 @@
 - [Free Public APIs](https://github.com/public-apis/public-apis)
 
 
+## Utilities
+- [Cursorful - Screen Recorder](https://cursorful.com/)
+- [Lottielab - Animator](https://www.lottielab.com/)
+
+
 ## Learning Resources
 - [Project based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Hackertab.dev](https://hackertab.dev/)
