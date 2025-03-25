@@ -72,6 +72,7 @@
 
 ### SSL Certificates
 - [cert-manager](https://github.com/cert-manager/cert-manager)
+- [serverless-ca](https://github.com/serverless-ca/terraform-aws-ca)
 
 ### Scaling
 - [keda](https://keda.sh/)
