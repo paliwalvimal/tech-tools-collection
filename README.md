@@ -1,4 +1,4 @@
-# Useful tools for techies
+# Useful tools
 
 ## Documentation
 - [Gitbook](https://www.gitbook.com/)
