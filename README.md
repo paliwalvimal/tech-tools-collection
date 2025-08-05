@@ -116,6 +116,10 @@
 - [serverless-ca](https://serverlessca.com/)
 
 
+## CAPTCHA
+- [altcha](https://github.com/altcha-org/altcha)
+
+
 ## Public APIs
 - [Free Public APIs](https://github.com/public-apis/public-apis)
 
