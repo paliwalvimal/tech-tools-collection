@@ -105,6 +105,19 @@
 - [uv](https://github.com/astral-sh/uv) - Package installer
 
 
+## AI/ML
+### Observability
+- [opik](https://github.com/comet-ml/opik/)
+
+### Agentic Framework
+- [langchain](https://www.langchain.com/)
+- [langflow](https://github.com/langflow-ai/langflow)
+- [strands](https://strandsagents.com/latest/)
+
+### Agents Memory
+- [mem0](https://github.com/mem0ai/mem0)
+
+
 ## IAM
 - [keycloak](https://www.keycloak.org/)
 - [dex](https://github.com/dexidp/dex)
