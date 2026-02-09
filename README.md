@@ -117,6 +117,9 @@
 ### Agents Memory
 - [mem0](https://github.com/mem0ai/mem0)
 
+### Agent Skills
+- [skills.sh](https://skills.sh/)
+
 
 ## IAM
 - [keycloak](https://www.keycloak.org/)
