@@ -1,7 +1,7 @@
 # Useful tools
 
 ## Document Signing
-- DocuSeal(https://github.com/docusealco/docuseal)
+- [DocuSeal](https://github.com/docusealco/docuseal)
 
 ## Documentation
 - [Gitbook](https://www.gitbook.com/)
